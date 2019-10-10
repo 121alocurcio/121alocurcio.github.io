@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<title>Anthony LoCurcio's Portfolio</title>
+<body>
+  <!--navbar-->
+  <div class=navbar>
+  		<div class="headline">
+  		    <a href="digital_portfolio.html"><button class="button">Home</button></a>
+  	    	<a href="unit2.html"><button class="button">Unit 2</button></a>
+  	    	<a href="aboutme.html"><button class="button">About Me</button></a>
+  	    </div>
+  </div>
+        <!--title-->
+        <h1 class=title>Digital Portfolio</h1>
+        <h2 class=title>By Anthony LoCurcio</h2>
+        <h3>About<h3>
+          <hr>
+          <p>
+            My name is Anthony LoCurcio. I am 16 years old, and I am a junior in High School. I was born and raised
+            in Freehold Boro NJ, and I have a brother who is 17. Some of my interests include cars, music, shoes,
+            and skateboarding. For some of my websites that I worked on click on the Work page. For more about me,
+            click on the about me button at the top of the screen.
+          </p>
+
+
+</body>
+</html>
