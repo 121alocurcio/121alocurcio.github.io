@@ -34,3 +34,6 @@ body {
 .my-4 {
     color: red;
 }
+.jumbotron {
+background-size:cover;
+}
