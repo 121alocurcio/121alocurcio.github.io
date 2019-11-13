@@ -28,9 +28,6 @@ button {
   height: 183px;
   width:276px;
 }
-body {
-  background-color: #f0ddaa
-}
 .my-4 {
     color: red;
 }
@@ -38,3 +35,7 @@ body {
 background-size:cover;
 color:
 }
+iframe:focus {
+  outline: none;
+}
+
